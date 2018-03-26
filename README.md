@@ -1,4 +1,4 @@
-# 2D-Tranformation
+# Linier-2D-Plane-Transformation
 Visualization 2D shape transformation using OpenGL
 
 Contributor:
